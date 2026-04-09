@@ -1,5 +1,8 @@
 ---
 title: "Home"
+format:
+  html:
+    theme: pulse
 ---
 
 # Hi, I'm Saurabh Parate 👋 Hello there
