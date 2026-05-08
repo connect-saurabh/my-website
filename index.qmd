@@ -1,11 +1,8 @@
 ---
-title: "Home"
-format:
-  html:
-    theme: pulse
+title: "Hi, I’m Saurabh Parate 👋"
 ---
 
-# Hi, I'm Saurabh Parate 👋 Hello there
+<img src="Saurabh Parate.jpg" alt="Saurabh Parate" class="profile-photo"/>
 
 Digital Marketing & SEO Specialist with 5+ years of experience in website content management, search optimization, and performance marketing analytics.
 
@@ -23,26 +20,11 @@ I currently work as a **Student Digital Marketing Assistant at Cal Poly Pomona**
 
 - Managed **100+ website pages**, improving SEO and user experience
 - Contributed to campaigns generating **600+ qualified leads**
-- Managed a **$10K Google Ads Grant campaign**
+- Managed a **\$10K Google Ads Grant campaign**
 - Experience across **SEO, CRO, analytics, and paid media optimization**
-
-## Featured Work
-
-### Website SEO & Content Optimization
-Improved structure, navigation, and search visibility across large-scale CMS websites.
-
-### Paid Media Campaigns
-Supported Google Ads and Meta Ads campaigns focused on lead generation and performance optimization.
-
-### Analytics & Reporting
-Built dashboards and tracked performance using GA4, Looker Studio, and Tag Manager.
-
-## Career Goal
-
-To leverage data-driven marketing strategies and SEO expertise to build impactful digital experiences and drive measurable business growth.
 
 ## Get in Touch
 
-- Email: contact@saurabhp.com
-- LinkedIn: saurabh-parate
-- Portfolio: saurabhp.com
+- 📧 Email: contact\@saurabhp.com
+- 💼 LinkedIn: saurabh-parate
+- 🌐 Portfolio: saurabhp.com
