@@ -54,5 +54,75 @@
     "title": "Hi, I’m Saurabh Parate 👋",
     "section": "Get in Touch",
     "text": "Get in Touch\n\n📧 Email: contact@saurabhp.com\n💼 LinkedIn: saurabh-parate\n🌐 Portfolio: saurabhp.com"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My First Post\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "I’d love to connect! Feel free to reach out through any of the channels below.\n\n📧 Email: contact@saurabhp.com\n💼 LinkedIn: saurabh-parate\n🌐 Portfolio: saurabhp.com"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Improved structure, navigation, and search visibility across large-scale CMS websites.\nTools used: Cascade CMS, Google Search Console, Screaming Frog"
+  },
+  {
+    "objectID": "projects.html#website-seo-content-optimization",
+    "href": "projects.html#website-seo-content-optimization",
+    "title": "Projects",
+    "section": "",
+    "text": "Improved structure, navigation, and search visibility across large-scale CMS websites.\nTools used: Cascade CMS, Google Search Console, Screaming Frog"
+  },
+  {
+    "objectID": "projects.html#paid-media-campaigns",
+    "href": "projects.html#paid-media-campaigns",
+    "title": "Projects",
+    "section": "Paid Media Campaigns",
+    "text": "Paid Media Campaigns\nSupported Google Ads and Meta Ads campaigns focused on lead generation and performance optimization.\nTools used: Google Ads, Meta Ads Manager"
+  },
+  {
+    "objectID": "projects.html#analytics-reporting",
+    "href": "projects.html#analytics-reporting",
+    "title": "Projects",
+    "section": "Analytics & Reporting",
+    "text": "Analytics & Reporting\nBuilt dashboards and tracked performance using GA4, Looker Studio, and Tag Manager.\nTools used: GA4, Looker Studio, Google Tag Manager"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume / CV",
+    "section": "",
+    "text": "Cal Poly Pomona | 2022 – Present\n\nManaged 100+ website pages for SEO and user experience\nManaged a $10K Google Ads Grant campaign\nContributed to campaigns generating 600+ qualified leads"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume / CV",
+    "section": "",
+    "text": "Cal Poly Pomona | 2022 – Present\n\nManaged 100+ website pages for SEO and user experience\nManaged a $10K Google Ads Grant campaign\nContributed to campaigns generating 600+ qualified leads"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume / CV",
+    "section": "Skills",
+    "text": "Skills\n\nSEO & Website Optimization\nGoogle Analytics (GA4), Tag Manager & Looker Studio\nPaid Media (Google Ads, Meta Ads, LinkedIn Ads)\nCMS-Based Website Management (Cascade CMS)\nPerformance Marketing & Data Analysis"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume / CV",
+    "section": "Education",
+    "text": "Education\n\nBachelor’s Degree\nCal Poly Pomona\nDownload CV"
   }
 ]
