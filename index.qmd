@@ -1,7 +1,7 @@
 ---
 title: "Hi, I’m Saurabh Parate 👋"
 ---
-LOL
+
 <img src="Saurabh Parate.jpg" alt="Saurabh Parate" class="profile-photo"/>
 
 Digital Marketing & SEO Specialist with 5+ years of experience in website content management, search optimization, and performance marketing analytics.
